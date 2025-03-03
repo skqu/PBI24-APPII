@@ -1,0 +1,57 @@
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\bin\Debug\net9.0\2025-02-24.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\bin\Debug\net9.0\2025-02-24.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\bin\Debug\net9.0\2025-02-24.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\bin\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\bin\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\refint\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\2025-02-24.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\obj\Debug\net9.0\ref\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\bin\Debug\net9.0\2025-02-24.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\bin\Debug\net9.0\2025-02-24.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\bin\Debug\net9.0\2025-02-24.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\bin\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\bin\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\refint\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\2025-02-24.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\code\obj\Debug\net9.0\ref\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\bin\Debug\net9.0\2025-02-24.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\bin\Debug\net9.0\2025-02-24.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\bin\Debug\net9.0\2025-02-24.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\bin\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\bin\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\refint\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\2025-02-24.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-02-24\Code\C# intro\obj\Debug\net9.0\ref\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\bin\Debug\net9.0\2025-02-24.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\bin\Debug\net9.0\2025-02-24.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\bin\Debug\net9.0\2025-02-24.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\bin\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\bin\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.sourcelink.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\refint\2025-02-24.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\2025-02-24.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-03-03\Code\C# intro\obj\Debug\net9.0\ref\2025-02-24.dll
