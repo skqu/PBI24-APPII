@@ -1,0 +1,6 @@
+product_id,product_name,price,stock_quantity
+101,Laptop,1200,10
+102,Phone,800,20
+103,Tablet,400,15
+104,Headphones,150,30
+105,Smartwatch,250,25
