@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UML")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3e87d2fca11387453fdc1c41dd03a0ab5aa2c36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+923a42879f57f9e5983d1d8f62bf62f0db3bf73e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UML")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UML")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

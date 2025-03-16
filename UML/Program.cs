@@ -39,3 +39,31 @@ class Everything
         Console.WriteLine("Log entry with msg: " + msg);
     }
 }
+
+
+/*
+@startuml
+
+actor User
+participant Alice
+participant Everything
+
+User -> Alice: Start program
+Alice -> Everything: Bob()
+Everything --> Alice: Return (0-4)
+
+alt Bob() == 0
+    Alice -> Console: "Everything is fine"
+else Bob() == 1
+    Alice -> Everything: Log("start")
+    loop 1000 times
+        Alice -> Everything: Bob()
+    end
+    Alice -> Everything: Log("Stop")
+else
+    Alice -> Console: "Repeat"
+end
+
+@enduml
+
+*/
