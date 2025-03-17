@@ -1,5 +1,8 @@
 ﻿
 
+using System.Runtime.CompilerServices;
+using Microsoft.VisualBasic;
+
 class Alice
 {
     static void Main()
