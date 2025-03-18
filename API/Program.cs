@@ -3,16 +3,16 @@ var builder = WebApplication.CreateBuilder(args);
 List<string> username = new List<string>();
 List<string> password = new List<string>();
 
-// Add CORS policy
+
+username.Add("skqu@iba.dk");
+password.Add("Secret");
+
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowLocalhost",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost", "https://localhost") // Adjust the port if necessary
-                  .AllowAnyMethod()
-                  .AllowAnyHeader();
-        });
+    options.AddPolicy("AllowAll",
+        policy => policy.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
 });
 
 // Add services to the container.
@@ -21,7 +21,7 @@ builder.Services.AddOpenApi();
 var app = builder.Build();
 
 // Use CORS
-app.UseCors("AllowLocalhost");
+app.UseCors("AllowAll");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -30,7 +30,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-app.MapGet("/HelloWorld", () =>
+app.MapGet("/weatherforecast", () =>
 {
     return "{'msg':'Hello World'}";
 })
@@ -49,7 +49,14 @@ app.MapPut("/user", (User user) =>
 
 app.MapGet("/user/{id}", (int id) => 
 {
-    return "{'msg': 'Success', 'username': " + username[id] + ", 'password': " + password[id] + "}";
+    var userData = new 
+    { 
+        msg = "Success", 
+        username = username[id], 
+        password = password[id] 
+    };
+
+    return Results.Json(userData); // Ensure JSON response
 });
 
 app.Run();
