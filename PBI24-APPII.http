@@ -1,0 +1,6 @@
+@PBI24_APPII_HostAddress = http://localhost:5123
+
+GET {{PBI24_APPII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
