@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PBI24-APPII.props" />
+</Project>
