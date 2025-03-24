@@ -1,3 +1,6 @@
+using System.Data.SqlTypes;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 class Rest
 {
     
@@ -62,6 +65,15 @@ class Rest
             return forecast;
         })
         .WithName("GetWeatherForecast");
+        return true;
+    }
+
+    public bool post()
+    {
+        this.app.MapPost("/user/login", (string username, string password) => {
+            User.authorizeUser();
+        });
+
         return true;
     }
 

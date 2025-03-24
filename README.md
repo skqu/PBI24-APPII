@@ -137,23 +137,40 @@ end
 @startuml
 class API
 {
+
 }
 class DataHandler
 {
-   
+    - DBMS dbms
+   + getUser(string username) : List<string>
+   + addUser(string username, string password, string userGroup) : string
 }
 class USER
 {
+    - username : string
+    - password : string
+    - userGroup : string
     + authorizeUser(string username, string password) : bool
-    - authorizeU() : bool
+    - authorize() : bool
+    + newUser(string username, string password, string usreGroup) : bool
 }
 class DBMS
 {
-
+    - List<iDB> lDB
+    + getUser(string username) : List<string>
+    + addUser(string username, string password, string userGroup) : string
 }
 class MySql
 {
-
+    + read(string type, string val) : List<string>
+    + write(string type, string val) : bool
 }
+
+API "1" -right-o "*" DataHandler
+DataHandler "*" -right-o "1" USER
+DataHandler "1" --* "1" DBMS
+DBMS "1" --* "*" iDB
+iDB "1" ..|> "1" MySql
+
 @enduml
 ´´´
