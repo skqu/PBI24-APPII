@@ -6,6 +6,7 @@ class Rest
     
     private WebApplicationBuilder builder;
     private WebApplication app;
+    private User usr; 
 
     public Rest(string[] args)
     {
@@ -13,6 +14,15 @@ class Rest
         // Add services to the container.
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
         this.builder.Services.AddOpenApi();
+    }
+
+    public Rest(string[] args, User usr)
+    {
+                builder = WebApplication.CreateBuilder(args);
+        // Add services to the container.
+        // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
+        this.builder.Services.AddOpenApi();
+        this.usr = usr; 
     }
 
     public bool OpenApi()
@@ -70,8 +80,9 @@ class Rest
 
     public bool post()
     {
-        this.app.MapPost("/user/login", (string username, string password) => {
-            User.authorizeUser();
+        this.app.MapPost("/user/login", () => {
+            usr.authorizeUser("skqu", "secret");
+            Console.WriteLine("Hello There");
         });
 
         return true;

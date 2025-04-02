@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PBI24-APPII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a96793ee04d5f86ab46dc5d293834f1fa4d50f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083b1250222b434f435766048eec988ce4273ab4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PBI24-APPII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PBI24-APPII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

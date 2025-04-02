@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-20\\PBI24-APPII\\PBI24-APPII.csproj": {}
+    "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-24\\PBI24-APPII\\PBI24-APPII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-20\\PBI24-APPII\\PBI24-APPII.csproj": {
+    "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-24\\PBI24-APPII\\PBI24-APPII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-20\\PBI24-APPII\\PBI24-APPII.csproj",
+        "projectUniqueName": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-24\\PBI24-APPII\\PBI24-APPII.csproj",
         "projectName": "PBI24-APPII",
-        "projectPath": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-20\\PBI24-APPII\\PBI24-APPII.csproj",
+        "projectPath": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-24\\PBI24-APPII\\PBI24-APPII.csproj",
         "packagesPath": "C:\\Users\\SKQU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-20\\PBI24-APPII\\obj\\",
+        "outputPath": "C:\\Users\\SKQU\\OneDrive - IBA Erhvervsakademi Kolding\\Uddannelser FT\\PBI24\\Forberedelse\\2. Applikationsudvikling\\2025-03-24\\PBI24-APPII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SKQU\\AppData\\Roaming\\NuGet\\NuGet.Config"
