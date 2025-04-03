@@ -1,0 +1,15 @@
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\bin\Debug\net9.0\design patterns.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\bin\Debug\net9.0\design patterns.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\bin\Debug\net9.0\design patterns.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\bin\Debug\net9.0\design patterns.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\bin\Debug\net9.0\design patterns.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.sourcelink.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\refint\design patterns.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\design patterns.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\obj\Debug\net9.0\ref\design patterns.dll
