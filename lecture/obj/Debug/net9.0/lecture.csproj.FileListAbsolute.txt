@@ -1,0 +1,15 @@
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\bin\Debug\net9.0\lecture.exe
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\bin\Debug\net9.0\lecture.deps.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\bin\Debug\net9.0\lecture.runtimeconfig.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\bin\Debug\net9.0\lecture.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\bin\Debug\net9.0\lecture.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.AssemblyInfoInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.AssemblyInfo.cs
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.csproj.CoreCompileInputs.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.sourcelink.json
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\refint\lecture.dll
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.pdb
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\lecture.genruntimeconfig.cache
+C:\Users\SKQU\OneDrive - IBA Erhvervsakademi Kolding\Uddannelser FT\PBI24\Forberedelse\2. Applikationsudvikling\2025-04-02\PBI24-APPII\lecture\obj\Debug\net9.0\ref\lecture.dll
